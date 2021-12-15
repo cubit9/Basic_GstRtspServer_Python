@@ -1,6 +1,6 @@
 
 Make sure that the following packages are installed on your system. `gstreamer, gst-rtsp-server`.
-They can be installed with pacman.
+On Manjaro they can be simple installed with pacman.
 
 Before you can install PyGObject (gi) with pip, you need to install the following packages on your system.
 ```bash
