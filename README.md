@@ -1,4 +1,11 @@
 
+## Introduction to GStreamer
+
+This is a very good introduction to GStreamer.
+
+[Video Streaming Made Awesome with GStreamer and Python - sunhacks 2020 Talk](https://youtu.be/HDY8pf-b1nA)
+[The text version of my GStreamer talk at sunhacks 2020](https://gist.github.com/velovix/8cbb9bb7fe86a08fb5aa7909b2950259)
+
 Make sure that the following packages are installed on your system. `gstreamer, gst-rtsp-server`.
 On Manjaro Linux they can be simple installed with pacman.
 
@@ -165,3 +172,10 @@ ioctl: VIDIOC_ENUM_FMT
 
         [0]: 'MJPG' (Motion-JPEG, compressed)
 ```
+
+
+## FFmpeg
+
+If you are looking for some basic information about FFmpeg, check out the website from [RickMakes](https://www.rickmakes.com).
+- [Using a Raspberry Pi Camera Board with FFmpeg](https://www.rickmakes.com/using-a-raspberry-pi-camera-board-with-ffmpeg/)
+- [Streaming USB Webcam with FFmpeg from One Raspberry Pi to Another](https://www.rickmakes.com/streaming-usb-webcam-from-one-raspberry-pi-to-another/?unapproved=3898&moderation-hash=2a86a439c2a13f59542ac36d1233cd40#comment-3898)
