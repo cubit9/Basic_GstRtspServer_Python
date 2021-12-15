@@ -16,7 +16,7 @@ pip3 install PyGObject
 
 Run the sample python script.
 ```bash
-python3 main.py
+python3 basic.py
 ```
 
 Open a terminal and connect to the rtsp stream.
